@@ -1,5 +1,7 @@
 # KubernetesのDaemonSetとしてfluentd(公式イメージ)をデプロイしてElasticSearchにすべてのログを転送する
 
+このメモは2019年2月時点での情報で作成しました。
+
 [fluentd-daemonset-elasticsearch.yaml](fluentd-daemonset-elasticsearch.yaml)
 
 ## 巷にあふれる情報からの要点
